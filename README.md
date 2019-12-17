@@ -24,3 +24,6 @@
 
 ### - 프로젝트 ppt 발표 원고
 
+## 2019_TermProject_PROPOSAL_노임령.docx
+
+### - 프로젝트 계획서
